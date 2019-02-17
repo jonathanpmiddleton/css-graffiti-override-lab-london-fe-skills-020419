@@ -1,6 +1,6 @@
 /* This passes the test, but doesn't work on the website */
 
-#wall.tag-1 {
+#wall .tag-1 {
     display: none;
 }
 
