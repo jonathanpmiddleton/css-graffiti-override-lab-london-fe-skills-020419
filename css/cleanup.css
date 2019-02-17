@@ -18,6 +18,7 @@
 }
 
 #wall .parent #tag-5.slick {
+    background: url(../images/tag-5.png) no-repeat;
     display: none;
 }
 
